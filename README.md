@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Salah! 👋
+# Hello, I'm Mohamed Salah! 👋
 
 ## 🚀 About Me
 
@@ -16,8 +16,18 @@ Mobile App Developer with experience in developing applications using Flutter. S
 
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## 🛠 Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,vscode,firebase,git,github,py,md,postman,figma,sqlite&perline=15&theme=dark)](https://skillicons.dev)
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedSla7&count_private=true&show_icons=true&theme=dark&include_all_commits=true&raw=true&border_radius=8" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dark&count_private=true&show_icons=true&border_radius=8" height="165em"/>
+</p>
+<!--
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&langs_count=5)](https://github.com/MohamedSla7/MohamedSla7) -->
+<!--
+[![My Languages (By Files Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&layout=compact&langs_count=8)](https://github.com/MohamedSla7/MohamedSla7) -->
 
 <!--
 **MohamedSla7/MohamedSla7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
