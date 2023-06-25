@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Mobile App Developer with experience in developing applications using Flutter. Skilled in Dart programming language and familiar with the latest mobile development trends. Currently seeking opportunities to work on challenging projects that will help me grow as a developer.
+Mobile Apps Developer with experience in developing applications using Flutter. Skilled in Dart programming language and familiar with the latest mobile development trends. Currently seeking opportunities to work on challenging projects that will help me grow as a developer.
 
 ## 🔗 Contact
 <!--
