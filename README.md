@@ -26,10 +26,6 @@ Mobile App Developer with experience in developing applications using Flutter. S
 
 ![Github Visitors](https://komarev.com/ghpvc/?username=MohamedSla7&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/MohamedSla7.svg?style=social&label=Followers)](https://github.com/MohamedSla7?tab=followers)
-<!--
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&langs_count=5)](https://github.com/MohamedSla7/MohamedSla7) -->
-<!--
-[![My Languages (By Files Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&layout=compact&langs_count=8)](https://github.com/MohamedSla7/MohamedSla7) -->
 
 <!--
 **MohamedSla7/MohamedSla7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
