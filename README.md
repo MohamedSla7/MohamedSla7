@@ -4,8 +4,7 @@
 
 Mobile App Developer with experience in developing applications using Flutter. Skilled in Dart programming language and familiar with the latest mobile development trends. Currently seeking opportunities to work on challenging projects that will help me grow as a developer.
 
-
-## 🔗 Links
+## 🔗 Contact
 <!--
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.com/) 
 -->
@@ -24,6 +23,9 @@ Mobile App Developer with experience in developing applications using Flutter. S
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedSla7&count_private=true&show_icons=true&theme=dark&include_all_commits=true&raw=true&border_radius=8" height="165em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dark&count_private=true&show_icons=true&border_radius=8" height="165em"/>
 </p>
+
+![Github Visitors](https://komarev.com/ghpvc/?username=MohamedSla7&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/MohamedSla7.svg?style=social&label=Followers)](https://github.com/MohamedSla7?tab=followers)
 <!--
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSla7&langs_count=5)](https://github.com/MohamedSla7/MohamedSla7) -->
 <!--
